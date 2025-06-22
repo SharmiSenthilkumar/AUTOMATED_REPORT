@@ -35,3 +35,6 @@ Automation of manual data tasks
 The skills acquired through this task are directly applicable in data analytics, automation engineering, and business intelligence roles. On successful completion of this task and submission of the deliverables, a completion certificate will be awarded, recognizing the intern's ability to build real-world solutions with Python.
 
 In conclusion, this automated report generation task is a practical and impactful assignment that bridges programming with real-world data analysis and presentation. It not only strengthens Python development skills but also builds a portfolio-worthy project that demonstrates problem-solving, creativity, and efficiency.
+
+***OUTPUT***
+![Image](https://github.com/user-attachments/assets/c7e8a104-fa43-482b-98fe-ca2a98706b6e)
